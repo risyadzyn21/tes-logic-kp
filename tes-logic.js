@@ -11,7 +11,7 @@ function findZAndThree() {
   }
 }
 
-// findZAndThree()
+findZAndThree()
 
 // 2.
 let story = 'Berikut adalah kisah sang gajah. Sang gajah memiliki teman serigala bernama DoeSang. Gajah sering dibela oleh serigala ketika harimau mendekati gajah.'
@@ -29,4 +29,4 @@ function findAnimal() {
   }
 }
 
-findAnimal()
+// findAnimal()
