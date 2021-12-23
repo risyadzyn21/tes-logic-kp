@@ -25,6 +25,8 @@ function findAnimal() {
       console.log('serigala')
     } else if (search[i] = 'harimau') {
       console.log('harimau')
+    } else {
+      console.log('')
     }
   }
 }
